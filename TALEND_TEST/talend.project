@@ -4,4 +4,5 @@
     <migrationTask xmi:id="_jnZXED6-EeqrYqAZmvfZ3Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_jM82wT6-EeqrYqAZmvfZ3Q" login="antonyvignier@dodo.fr" firstName="Cédric" lastName="GRUN" type="DI"/>
+  <TalendProperties:User xmi:id="_pXsnwEDtEeqQj_qqGjrhOg" login="cedric.grun@dodo.fr" firstName="Cédric" lastName="GRUN" type="DI"/>
 </xmi:XMI>
